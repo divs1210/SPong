@@ -1,7 +1,7 @@
 /**
  * A Pong implementation in ~100 lines of Scala.
  * 
- * Uses the ThreeCoffee Game Engine ( https://github.com/divs1210/3Coffee )
+ * Uses the 3Coffee Game Engine ( https://github.com/divs1210/3Coffee )
  * 
  * @author Divyansh Prakash
  * Jan, 2014
